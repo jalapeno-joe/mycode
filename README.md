@@ -1,5 +1,6 @@
 # mycode
 Learning to track my code
+Need to learn how to version control with GIT.
 ## Getting Started
 ### Prerequisites
 ## Built with
